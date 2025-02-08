@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Joshi</h1>
-<h3 align="center">A passionate full stack MERN developer</h3>
+<h3 align="center">A dedicated Full Stack Developer specializing in the MERN stack and modern web technologies.</h3>
 
 
 - 🔭 I’m currently working on **Backend Service Platform**
