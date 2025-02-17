@@ -42,9 +42,7 @@
 
 
 ### GitHub Streak:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sojo06&background=000000&border_radius=5&sideNums=FFFF00&currStreakLabel=ADFF2F&currStreakNum=FF6347&date_format=j%20M%20Y&dates=FFFFFF" alt="GitHub Streak" width="400" height="180"/>
-</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sojo06/sojo06/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sojo06/sojo06/output/github-snake.svg" />
