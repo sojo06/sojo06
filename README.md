@@ -2,6 +2,9 @@
 <h3 align="center">A dedicated Full Stack Developer specializing in the MERN stack and modern web technologies.</h3>
 
 
+  🔗 [Check out my Portfolio](https://sohamjoshiportfolio.vercel.app/)
+
+
 - 🔭 I’m currently working on **Backend Service Platform**
 
 - 🌱 I’m currently learning **Java,spring boot and PostgreSQL**
